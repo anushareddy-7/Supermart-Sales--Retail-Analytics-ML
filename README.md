@@ -3,10 +3,10 @@ Supermart Grocery Sales--Retail-Analytics :
 This project is to analyse retail grocery sales analysis and build  a machine learning model to predict sales.
  
 Project workflow:
-Data-Preprocessing
-Exploratory Data Analysis
-Feature Engineering
-Model Building
+Data-Preprocessing,
+Exploratory Data Analysis,
+Feature Engineering,
+Model Building,
 
 Model Evaluation :
 Mean Squared Error :211,380
