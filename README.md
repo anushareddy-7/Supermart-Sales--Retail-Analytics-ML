@@ -16,9 +16,15 @@ Implemented advanced models(RandomForest, XGBoost) and deployed model into an in
 
 **Tools & Libraries Used:**
 Python
-Pandas,
-Matplotlib,
-Scikit-Learn,
+
+Numpy #Linear algebra
+
+Pandas # data preprocessing,CSV file I/O(E.g pd.read_csv)
+
+Matplotlib & Seaborn
+
+Scikit-Learn
+
 Jupyter Notebook
 
 **Purpose:**
