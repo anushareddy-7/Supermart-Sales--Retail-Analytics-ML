@@ -6,7 +6,7 @@ Project workflow:
 Data-Preprocessing,
 Exploratory Data Analysis,
 Feature Engineering,
-Model Building,
+Model Building
 
 Model Evaluation :
 Mean Squared Error :211,380
@@ -17,9 +17,9 @@ Implemented advanced models(RandomForest, XGBoost) and deployed model into an in
 
 Tools & Libraries Used:
 Python
-Pandas
-Matplotlib
-Scikit-Learn
+Pandas,
+Matplotlib,
+Scikit-Learn,
 Jupyter Notebook
 
 Purpose:
