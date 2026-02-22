@@ -12,8 +12,7 @@ Mean Squared Error :211,380
 R-Squared :0.36
 
 Future Improvemets:
-Implemented advanced models(RandomForest, XGBoost)
-Deploy model into an interactive dashbooard.
+Implemented advanced models(RandomForest, XGBoost) and deployed model into an interactive dashbooard.
 
 Tools & Libraries Used:
 Python
