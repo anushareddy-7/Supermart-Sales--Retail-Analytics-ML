@@ -9,7 +9,7 @@ Feature Engineering,
 Model Building
 
 Model Evaluation :
-Mean Squared Error :211,380
+Mean Squared Error :211,380,
 R-Squared :0.36
 
 Future Improvemets:
